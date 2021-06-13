@@ -1,0 +1,65 @@
+﻿id,administrative division,2la,3la,fishing boat,vehicle,postalcode,area code
+0,tỉnh/thành phố,2 ký tự,3 ký tự,(tàu cá),(xe cơ giới),(bưu chính),điện thoại
+1,An Giang,AG,AGI,AG,67,88xxxx,296
+2,Bà Rịa – Vũng Tàu,BV,BRV,BV,72,79xxxx,254
+3,Bạc Liêu,BL,BLI,BL,94,96xxxx,291
+4,Bắc Kạn,BK,BCA,BK,97,26xxxx,209
+5,Bắc Giang,BG,BGI,BG,98 (số cũ 13),23xxxx,204
+6,Bắc Ninh,BN,BNI,BN,99 (số cũ 13),22xxxx,222
+7,Bến Tre,BE,BTR,BT,71,93xxxx,275
+8,Bình Dương,BD,BDU,BD,61,82xxxx,274
+9,Bình Định,BĐ,BDI,BĐ,77,59xxxx,256
+10,Bình Phước,BP,BPH,BP,93,83xxxx,271
+11,Bình Thuận,BT,BTH,BTh,86,80xxxx,252
+12,Cà Mau,CM,CMA,CM,69,97xxxx,290
+13,Cao Bằng,CB,CBA,CB,11,27xxxx,206
+14,Cần Thơ,CT,CTH,CT,65,92xxxx,292
+15,Đà Nẵng,DA,DNA,ĐNa,43,55xxxx,236
+16,Đắk Lắk,DL,DLA,ĐL,47,63xxxx,262
+17,Đắk Nông,DG,DNO,ĐNo,48,64xxxx,261
+18,Điện Biên,DB,DBI,ĐB,27,38xxxx,215
+19,Đồng Nai,DN,DON,ĐN,"60, 39",81xxxx,251
+20,Đồng Tháp,DT,DTH,ĐT,66,87xxxx,277
+21,Gia Lai,GL,GLA,GL,81,60xxxx,269
+22,Hà Giang,HG,HGI,HG,23,31xxxx,219
+23,Hà Nam,HM,HNA,HNa,90,40xxxx,226
+24,Hà Nội,HN,HAN,HN,"29 đến 33,40",10xxxx,24
+25,Hà Tĩnh,HT,HTI,HT,38,48xxxx,239
+26,Hải Dương,HD,HDU,HD,34,17xxxx,220
+27,Hải Phòng,HP,HPH,HP,"15, 16",18xxxx,225
+28,Hậu Giang,HA,HAG,HGi,95,91xxxx,293
+29,Hòa Bình,HB,HBI,HB,28,35xxxx,218
+30,Thành phố Hồ Chí Minh,SG,SGN,SG,50 đến 59,70xxxx,28
+31,Hưng Yên,HY,HYE,HY,89,16xxxx,221
+32,Khánh Hoà,KH,KHH,KH,79,65xxxx,258
+33,Kiên Giang,KG,KGI,KG,68,92xxxx,297
+34,Kon Tum,KT,KTU,KT,82,58xxxx,260
+35,Lai Châu,LC,LCH,LC,25,39xxxx,213
+36,Lạng Sơn,LS,LSO,LS,12,24xxxx,205
+37,Lào Cai,LK,LCA,LCa,24,33xxxx,214
+38,Lâm Đồng,LD,LDO,LĐ,49,67xxxx,263
+39,Long An,LA,LAN,LA,62,85xxxx,272
+40,Nam Định,ND,NDI,NĐ,18,42xxxx,228
+41,Nghệ An,NA,NAN,NA,37,46xxxx,238
+42,Ninh Bình,NB,NBI,NB,35,43xxxx,229
+43,Ninh Thuận,NT,NTH,NT,85,66xxxx,259
+44,Phú Thọ,PT,PTH,PT,19,29xxxx,210
+45,Phú Yên,PY,PHY,PY,78,62xxxx,257
+46,Quảng Bình,QB,QBI,QB,73,51xxxx,232
+47,Quảng Nam,QM,QNA,QNa,92,56xxxx,235
+48,Quảng Ngãi,QI,QNG,QNg,76,57xxxx,255
+49,Quảng Ninh,QN,QNI,QN,14,20xxxx,203
+50,Quảng Trị,QT,QTR,QT,74,52xxxx,233
+51,Sóc Trăng,ST,STR,ST,83,95xxxx,299
+52,Sơn La,SL,SLA,SL,26,36xxxx,212
+53,Tây Ninh,TA,TNI,TN,70,84xxxx,276
+54,Thái Bình,TB,TBI,TB,17,41xxxx,227
+55,Thái Nguyên,TN,TNG,TNg,20,25xxxx,208
+56,Thanh Hóa,TH,THO,TH,36,44xxxx,237
+57,Thừa Thiên Huế,TT,HUE,TTH,75,53xxxx,234
+58,Tiền Giang,TG,TGI,TG,63,86xxxx,273
+59,Trà Vinh,TV,TVI,TV,84,94xxxx,294
+60,Tuyên Quang,TQ,TQU,TQ,22,30xxxx,207
+61,Vĩnh Long,VL,VLO,VL,64,89xxxx,270
+62,Vĩnh Phúc,VP,VPH,VP,88,28xxxx,211
+63,Yên Bái,YB,YBA,YB,21,32xxxx,216
